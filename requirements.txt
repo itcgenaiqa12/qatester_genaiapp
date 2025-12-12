@@ -1,0 +1,3 @@
+behave
+psycopg2-binary
+faker
